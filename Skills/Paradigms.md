@@ -7,12 +7,12 @@
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -21,14 +21,14 @@
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box h
+  - Black box: 👂 heard
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new` h
+  - Operator `new`: 👂 heard
   - Static method
   - Method
   - Async method
@@ -36,16 +36,16 @@
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance +
-  - Parent class +
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance +
-  - Introspection h
+  - Instance: 🎓 known
+  - Introspection: 👂 heard
   - Reflection
   - The diamond problem
 - GRASP
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
-  - Open–closed principle (OCP) h
-  - Liskov substitution principle (LSP) h
-  - Interface segregation principle (ISP) h
-  - Dependency inversion principle (DIP) h
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
   - Singleton
   - Factory Method

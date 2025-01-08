@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection h
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments h
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -63,65 +63,65 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates +
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) +
-  - TCP/SSL +
-  - UDP +
-  - TLS +
-  - Websocket +
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS +
-  - DDoS +
-  - XSS +
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 🎓 known
   - Path traversal
   - CSRF
-  - DNS +
-  - SQL injection +
+  - DNS: 🎓 known
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive +
+  - keep-alive: 🎓 known
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging h
+  - Logging: 👂 heard
   - Application configuring
   - Testing
   - CI/CD
-  - Readable u
-  - Writable u
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Back pressure
-  - Buffer +
-  - Console u
+  - Buffer: 🎓 known
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository h
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` +
-  - `error.cause` +
-  - `error.code` +
-  - `error.message` +
+  - `Error`: 🎓 known
+  - `error.cause`: 🎓 known
+  - `error.code`: 🎓 known
+  - `error.message`: 🎓 known
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions +
-  - Heap dump h
+  - Uncaught exceptions: 🎓 known
+  - Heap dump: 👂 heard
   - Debugging tools
   - Flame graph
-  - Memory leaks h
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings

@@ -1,21 +1,21 @@
 ## Databases
 
 - Theory and concepts
-  - Data types +
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery +
-  - Database scalability h
+  - Backup and recovery: 🎓 known
+  - Database scalability: 👂 heard
   - Relational databases
-  - Key-value store +
-  - Tuple store h
+  - Key-value store: 🎓 known
+  - Tuple store: 👂 heard
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases h
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing h
+  - Indexing: 👂 heard
   - Primary keys
   - Foreign keys
   - Transactions
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization +
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 🎓 known

@@ -1,30 +1,30 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity +
+  - Components h
+  - Directories !
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Multiparadigm code h
+  - Contract programming h
+  - Platform-agnostic +
   - Transport-agnostic
   - Framework-agnostic
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability +
+  - Quality +
+  - Availability +
+  - Flexibility +
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer +
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -47,12 +47,12 @@
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation h
   - Distributed systems
-  - High-intensive computing
-  - Load balancing
+  - High-intensive computing h
+  - Load balancing h
   - Gateways
-  - On-premises
+  - On-premises h
   - IaaS
   - PaaS
   - SaaS
@@ -61,16 +61,16 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
+  - A software requirements specification (SRS) h
+  - Solution visions h
+  - Solution capabilities h
+  - System design h
   - Process modelling
-  - Data modelling
+  - Data modelling h
   - Solution components
-  - Risk assessment
+  - Risk assessment h
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
   - Low-code
   - No-code
@@ -80,15 +80,15 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs h
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices +
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance +
   - Engineering Hygiene

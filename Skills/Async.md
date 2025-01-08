@@ -22,9 +22,9 @@
   - Thread h
   - Process h
 - Async contracts
-  - Callbacks
+  - Callbacks h
   - Callback-last-error-first
-  - Thenable
+  - Thenable h
   - Promise h
   - Async/await +
   - Future
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
   - Signal

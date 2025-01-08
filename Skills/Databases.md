@@ -1,12 +1,12 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
-  - Database scalability
+  - Backup and recovery +
+  - Database scalability h
   - Relational databases
   - Key-value store
   - Tuple store
@@ -15,7 +15,7 @@
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases h
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
@@ -24,7 +24,7 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing
+  - Indexing h
   - Primary keys
   - Foreign keys
   - Transactions
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
+  - Data Visualization +

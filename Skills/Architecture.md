@@ -4,8 +4,8 @@
   - Modularity +
   - Components h
   - Directories !
-  - GRASP
-  - SOLID
+  - GRASP +
+  - SOLID +
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -29,10 +29,10 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) u
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC) +
+  - Dependency injection (DI) +
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment h
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds +
   - BPMN
   - Low-code
   - No-code
@@ -97,4 +97,4 @@
   - OLTP
   - Conways Law
   - Quality assurance +
-  - Engineering Hygiene
+  - Engineering Hygiene +

@@ -50,7 +50,7 @@
   - Integration testing
   - Logging and tracing +
   - Application monitoring and telemetry h
-  - Debugging tools and strategies
+  - Debugging tools and strategies h
   - Performance profiling and analysis +
 - Data Access and ORM
   - Entity Framework Core
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor

@@ -1,15 +1,15 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
+  - Data types +
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery +
   - Database scalability h
   - Relational databases
-  - Key-value store
-  - Tuple store
+  - Key-value store +
+  - Tuple store h
   - Graph databases
   - Object databases
   - Column databases

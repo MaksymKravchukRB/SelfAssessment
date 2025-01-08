@@ -14,12 +14,12 @@
   - `null` +
   - `this` +
   - `instanceof` h
-  - `...spread`
+  - `...spread` +
   - `...rest`
   - `typeof` u
-  - Destructuring
+  - Destructuring h
   - Generators
-  - Iterators
+  - Iterators h
   - Async generator
   - Async iterator
   - Chaining
@@ -79,7 +79,7 @@
   - `with`
   - `new` h
 - Functions
-  - Arrow function +
+  - Arrow function u
   - Async function h
   - Function declaration u
   - Function expression u
@@ -91,7 +91,7 @@
   - `return` u
 - Data structures
   - `Array` u
-  - `Map` h
+  - `Map` +
   - `Set` h
   - `WeakMap`
   - `WeakSet`
@@ -110,7 +110,7 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` h
   - `console`
   - Timers
 - Infrastructure

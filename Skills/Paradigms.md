@@ -21,7 +21,7 @@
   - Metaprogramming
   - Actor model
   - Lambda calculus
-  - Black box
+  - Black box h
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
@@ -45,7 +45,7 @@
   - Hidden class
   - Object form
   - Instance +
-  - Introspection
+  - Introspection h
   - Reflection
   - The diamond problem
 - GRASP
@@ -58,11 +58,11 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP) h
+  - Open–closed principle (OCP) h
+  - Liskov substitution principle (LSP) h
+  - Interface segregation principle (ISP) h
+  - Dependency inversion principle (DIP) h
 - Patterns
   - Singleton
   - Factory Method

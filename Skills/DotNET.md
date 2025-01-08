@@ -21,7 +21,7 @@
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
-  - Windows Services and Linux Daemons +
+  - Windows Services and Linux Daemons h
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration

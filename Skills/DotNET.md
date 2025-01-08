@@ -21,7 +21,7 @@
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
-  - Windows Services and Linux Daemons +
+  - Windows Services and Linux Daemons h
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
@@ -50,7 +50,7 @@
   - Integration testing
   - Logging and tracing +
   - Application monitoring and telemetry h
-  - Debugging tools and strategies
+  - Debugging tools and strategies h
   - Performance profiling and analysis +
 - Data Access and ORM
   - Entity Framework Core
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor

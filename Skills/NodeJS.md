@@ -90,7 +90,7 @@
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging h
   - Application configuring
   - Testing
   - CI/CD
@@ -103,7 +103,7 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository h
   - Active record
   - Query builder
   - Object-Relational Mapping
@@ -117,8 +117,8 @@
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
+  - Uncaught exceptions +
+  - Heap dump h
   - Debugging tools
   - Flame graph
   - Memory leaks h

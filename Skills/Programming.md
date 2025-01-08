@@ -1,69 +1,69 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model +
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
-  - Semantics
+  - Syntax u
+  - Semantics +
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm !
+  - Programming paradigm h
+  - Programming language !
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library h
+  - Package h
+  - Component h
+  - Framework h
   - Platform
-  - Source code
+  - Source code u
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering +
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Code reuse u
+  - Defensive programming h
+  - Don't repeat yourself (DRY) h
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value !
+  - Identifier !
+  - Variable !
+  - Constant !
+  - Scalar !
+  - Literal h
+  - Expression h
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Method u
+  - Class +
+  - Prototype +
+  - Event h
+  - Type u
+  - Flag h
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
+  - Code block h
+  - Conditions !
+  - Loops !
+  - Assignment u
+  - Regular expression +
   - Interface
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
+  - Naming conventions +
+  - Coding conventions +
+  - Camel case u
+  - Snake case u
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early u
   - Fail-fast
 - Types
   - Primitive types
@@ -82,21 +82,21 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
+  - Argument u
   - Parameter
   - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Lambda expression h
+  - Side effects h
+  - Closure +
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
   - Callback
-  - Listener
+  - Listener h
   - Composition
-  - Pipe
+  - Pipe h
   - Memoize
   - Wrapper
   - Functor
@@ -105,12 +105,12 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
-  - Instance
-  - Object
+  - Instance +
+  - Object +
   - Collection
   - Set
   - Hash table
@@ -127,45 +127,45 @@
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
+  - String parsing h
+  - JSON +
+  - JSON5 +
   - YAML
 - Networking
-  - DNS
-  - CDN
+  - DNS +
+  - CDN +
   - CORS
-  - IPv4
+  - IPv4 +
   - IPv6
   - NAT
-  - URL
+  - URL y
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler +
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine +
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
-  - Exception
+  - Code review h
+  - Exception +
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github h
   - Docker
   - Kubernetes
   - GCC
@@ -174,31 +174,31 @@
   - Magic numbers
   - Hard code
   - Soft code
-  - Cryptic code
+  - Cryptic code h
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity h
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti u
+  - Silver bullet h
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Unreachable code +
+  - Duplicate code +
+  - Premature optimization u
+  - Micro-optimization u
+  - Nested loops u
+  - Long method/function/procedure +
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters h
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case h
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
-  - Feature envy
+  - Feature envy h
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
@@ -208,21 +208,21 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
-  - Kernel
+  - Interrupts h
+  - Drivers +
+  - Kernel u
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
+  - File system u
+  - Linux u
+  - Unix u
+  - BSD h
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII u
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 +
   - W3C
   - ODMG

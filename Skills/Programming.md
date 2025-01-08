@@ -198,7 +198,7 @@
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
-  - Feature envy h
+  - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines

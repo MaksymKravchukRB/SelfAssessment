@@ -66,7 +66,7 @@
   - Return early u
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types h
   - Reference types
   - Type systems
   - Strong typing
@@ -76,7 +76,7 @@
   - Dynamic typing
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing h
   - Type inference
   - Covariance
   - Contravariance
@@ -112,14 +112,14 @@
   - Instance +
   - Object +
   - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Set h
+  - Hash table +
+  - Linked list h
   - Doubly list
   - Unrolled list
-  - Circular list
+  - Circular list h
   - Queue
-  - Stack
+  - Stack h
   - Deque
   - Tree
   - Graph
@@ -148,7 +148,7 @@
   - Transpiler
   - Linter u
   - Polyfill
-  - Interpreter
+  - Interpreter h
   - Linker
   - Dynamic linking
   - Static linking
@@ -160,18 +160,18 @@
   - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review h
+  - Refactoring u
+  - Code review +
   - Exception +
   - Unittesting
-  - git h
-  - Github h
+  - git u
+  - Github u
   - Docker
   - Kubernetes
-  - GCC
+  - GCC +
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers +
   - Hard code
   - Soft code
   - Cryptic code h
@@ -191,7 +191,7 @@
   - Long inheritance
   - Large class/file
   - Too many parameters h
-  - Pass-through parameters
+  - Pass-through parameters h
   - Accumulate and fire
   - Use switch/case h
   - Temporary field
@@ -208,7 +208,7 @@
   - CLR
   - Mono
 - Operating systems
-  - Interrupts h
+  - Interrupts +
   - Drivers +
   - Kernel u
   - Ring

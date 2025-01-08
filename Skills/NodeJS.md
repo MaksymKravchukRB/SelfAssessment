@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments h
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -63,30 +63,30 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates +
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) +
+  - TCP/SSL +
+  - UDP +
+  - TLS +
+  - Websocket +
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS +
+  - DDoS +
+  - XSS +
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS +
+  - SQL injection +
   - noDelay
-  - keep-alive
+  - keep-alive +
   - IP sticky sessions
 - Technique and tools
   - Native test runner
@@ -94,12 +94,12 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable u
+  - Writable u
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer +
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
+  - `Error` +
+  - `error.cause` +
+  - `error.code` +
+  - `error.message` +
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
@@ -121,7 +121,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings

@@ -21,7 +21,7 @@
 - Environment and Tools
   - Command line interface (CLI) tools
   - .NET CLI
-  - Windows Services and Linux Daemons
+  - Windows Services and Linux Daemons +
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
@@ -40,18 +40,18 @@
   - HTTP/HTTPS support
   - WebSockets for real-time communication
   - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - SSL/TLS for secure connections +
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention) +
+  - Serialization and deserialization (JSON, XML) +
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
   - Integration testing
-  - Logging and tracing
-  - Application monitoring and telemetry
+  - Logging and tracing +
+  - Application monitoring and telemetry h
   - Debugging tools and strategies
-  - Performance profiling and analysis
+  - Performance profiling and analysis +
 - Data Access and ORM
   - Entity Framework Core
   - Dapper
